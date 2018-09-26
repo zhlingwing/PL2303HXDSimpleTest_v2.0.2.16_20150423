@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:1:1-31:12
+	package
+		ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:2:5-47
+		INJECTED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml
+		INJECTED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:4:5-35
+		INJECTED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml
+		INJECTED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml
+		INJECTED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml
+		INJECTED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:7:9-35
+		INJECTED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml
+		INJECTED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.usb.host
+ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:9:5-61
+	android:name
+		ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:9:19-59
+application
+ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:11:5-29:19
+	android:label
+		ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:12:9-45
+activity#com.prolific.pl2303hxdsimpletest.PL2303HXDSimpleTest
+ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:14:9-28:20
+	android:label
+		ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:16:13-73
+	android:launchMode
+		ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:17:13-43
+	android:theme
+		ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:18:10-41
+	android:name
+		ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:15:13-48
+intent-filter#action:name:android.hardware.usb.action.USB_DEVICE_ATTACHED+action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:19:13-24:29
+action#android.intent.action.MAIN
+ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:21:27-74
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:22:17-90
+	android:name
+		ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:22:25-87
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:26:10-27:57
+	android:resource
+		ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:27:17-54
+	android:name
+		ADDED from E:\myApp\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\src\main\AndroidManifest.xml:26:21-83
